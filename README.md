@@ -38,4 +38,4 @@ npm run andriod
 12. When you are finished taking attendance, you can view the attendance records for the class.
 
 # Support
-If you have any issues or questions while using Attendo, please don't hesitate to contact me at [Muhammad Haris Abdullah](hariskhan1435@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) I am always happy to help!
+If you have any issues or questions while using Attendo, please don't hesitate to contact me at [Here](hariskhan1435@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) I am always happy to help!
